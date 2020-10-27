@@ -1,0 +1,15 @@
+current directory: /home/odgbeasts/lessons/DharbeyDirect/projects/railsgirls/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/home/odgbeasts/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/odgbeasts/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20201007-11525-195vkz1.rb extconf.rb
+creating Makefile
+
+current directory: /home/odgbeasts/lessons/DharbeyDirect/projects/railsgirls/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/odgbeasts/lessons/DharbeyDirect/projects/railsgirls/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/odgbeasts/lessons/DharbeyDirect/projects/railsgirls/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20201007-11525-1x8k8m1
